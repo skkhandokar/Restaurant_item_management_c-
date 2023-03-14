@@ -2,7 +2,7 @@
 
 # FOLLOW
 
-# FIRST INPUT RESTAURENT TOTAL ITEMS
+## FIRST INPUT RESTAURENT TOTAL ITEMS
 # Then, input every single item code , item name, item price
 # Then visible a Item summery where include every item details
 
