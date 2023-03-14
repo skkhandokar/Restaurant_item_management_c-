@@ -29,7 +29,7 @@ void Restaurant::getter()
 }
 void Restaurant::setter()
 {
-	cout<<"                 	Make Bill                	"<<endl;
+	cout<<"                 	Item Summery                	"<<endl;
 	cout<<"          	--------------------------     	"<<endl;
 	cout<<"item code   	item name                           	item price"<<endl;
  	for(int i=0;i<12;i++)  {
